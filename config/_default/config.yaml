@@ -5,7 +5,7 @@
 
 title: Academic # Website name
 baseurl: 'biprodip.github.io' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: 'biprodip@cse.ruet.ac.bd' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
